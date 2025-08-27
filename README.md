@@ -22,11 +22,13 @@ A simple and interactive web-based Expense Tracker to help users manage their ex
 
 
 
-##initail page:
+## Initail page:
+
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/45f8cb96-7730-4887-af4d-1fb48a0da55c" />
 
-##after tracking expenses:
+## After tracking expenses:
+
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/d4cea9bb-d939-4662-a0d2-6c9044377460" />
 
-##for categorization:
+## category:
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/b3abf560-05c7-4eba-b15a-72179065de6c" />
